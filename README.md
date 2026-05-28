@@ -1,6 +1,6 @@
 # Simulador de Loja de Roupas AM Imports
 
-Projeto em Python para simular uma loja de roupas chamada AM Imports.
+Projeto em Python simulando uma Loja com nome AM Imports
 
 ## Funcionalidades
 
